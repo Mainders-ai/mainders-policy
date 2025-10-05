@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mainders-ai.github.io/mainders-policy/sitemap.xml
